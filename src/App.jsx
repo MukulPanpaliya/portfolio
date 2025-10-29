@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+import Navbar from "./components/Navbar.jsx";
+import Home from "./components/Home.jsx";
+import About from "./components/About.jsx";
+import Projects from "./components/Projects.jsx";
+import Contact from "./components/Contact.jsx";
 import "./App.css";
 
 export default function App() {
